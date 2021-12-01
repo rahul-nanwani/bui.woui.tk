@@ -1,4 +1,4 @@
-var date = new Date("November 06, 2021 00:00:00").getTime();
+var date = new Date("November 06, 2022 00:00:00").getTime();
 var x = setInterval(function () {
     var now = new Date().getTime();
     var remaining = date - now;
